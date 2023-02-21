@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="w3words" transform="translate(-230 -782)">
+    <path id="Path_577" data-name="Path 577" d="M17,0A17,17,0,1,1,0,17,17,17,0,0,1,17,0Z" transform="translate(230 782)" fill="#72ba45"/>
+    <path id="Icon_open-map" data-name="Icon open-map" d="M0-.025v15.98H15.98V11.2a1,1,0,0,0,0-.439V-.045H0Zm2,2H13.983v7.99h-3a1,1,0,1,0,0,2h3v2H2Zm4.994,2a2.992,2.992,0,0,0-3,3c0,2,3,4.994,3,4.994s3-3,3-4.994A2.992,2.992,0,0,0,6.991,3.97Zm0,2a1,1,0,0,1,0,2c-.559,0-1-1-1-1S6.432,5.967,6.991,5.967Z" transform="translate(239 791.045)" fill="#fff"/>
+  </g>
+</svg>

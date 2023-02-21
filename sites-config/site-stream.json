@@ -1,0 +1,22 @@
+{
+  "$id": "site-entity",
+  "filter": {
+    "entityIds": ["headerFooter"]
+  },
+  "source": "knowledgeGraph",
+  "fields": [
+
+    "name",
+    "c_menu",
+    "c_footer",
+    "c_social",
+    "c_socialButton",
+    "c_contactUs",
+    "c_socials",
+    "c_environmentalPolicy"
+  ],
+  "localization": {
+    "locales": ["en"],
+    "primary": false
+  }
+}
