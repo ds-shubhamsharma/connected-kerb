@@ -25,19 +25,19 @@ import { StaticData } from "../../sites-global/staticData";
     return "404.html";
   };
   
-  export const config: TemplateConfig = {
-    stream: {
-      $id: "not-found-page",
-      fields: [],
-      localization: {
-        locales: ["en"],
-        primary: false,
-      },
-      filter: {
-        entityIds: ["header"],
-      },
-    },
-  };
+  // export const config: TemplateConfig = {
+  //   stream: {
+  //     $id: "not-found-page",
+  //     fields: [],
+  //     localization: {
+  //       locales: ["en"],
+  //       primary: false,
+  //     },
+  //     filter: {
+  //       entityIds: ["header"],
+  //     },
+  //   },
+  // };
   
   function MyFunction() {
     document.body.scrollTop = 20;
@@ -126,8 +126,8 @@ import { StaticData } from "../../sites-global/staticData";
   
   
           <div className="pb-32 pt-8">
-            <Link href="">
-            <button className="flex button px-2 text-white bg-[#54962f] hover:bg-[#54962f] font-bold py-2 px-4 mx-auto">
+            <Link href="/">
+            <button className="flex button px-2 text-white bg-[#314448] hover:bg-[#54962f] font-bold py-2 px-4 mx-auto">
             {StaticData.goHomeCTA}
             </button>
             </Link>
